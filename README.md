@@ -23,9 +23,3 @@ This project, titled **"U.S. Healthcare Dynamics"**, aims to provide healthcare 
 
 ## Conclusion:
 By engaging with this dashboard, you are embarking on a journey through the U.S. healthcare landscape, helping to shape the future of healthcare with data-driven insights. Your thoughtful engagement with this project is invaluable, as it will guide decisions that impact the efficiency, compassion, and progress within the system.
-
-Thank you for exploring this insightful analysis. Together, we can make a meaningful impact and create a healthier, more resilient future for all.
-
----
-
-Let me know if you'd like to make any adjustments or need further details!
